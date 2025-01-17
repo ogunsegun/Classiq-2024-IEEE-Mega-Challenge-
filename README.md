@@ -30,11 +30,15 @@ paulis = [("III",  0.95), ("IZI", 0.955), ("IIZ", 0.955), ("ZII", 0.955), ("III"
 
 
 num_system_qubits = 4
+
 num_ancila_qubits = 3
+
 ansatz_param_count = 9
+
 NM = 1
 
 error_bound = 0.0
+
 error_metric = "LOSS_OF_FIDELITY" 
 
 Please you can contribute to this code so I can have more knowledge of it thanks!
